@@ -1,3 +1,5 @@
+# Resistor Color Code Calculator
+# Python Mini Project
 import tkinter as tk
 
 # -------- DATA --------

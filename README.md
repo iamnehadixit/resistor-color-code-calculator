@@ -1,7 +1,5 @@
-# resistor-color-code-calculator
-Resistor Color Code Calculator using Python and Tkinter
 # Resistor Color Code Calculator
-
+Resistor Color Code Calculator using Python and Tkinter
 A simple Python GUI project to calculate resistor values using color codes.
 
 ## Features

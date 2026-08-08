@@ -1,0 +1,19 @@
+270 kOhm
+370 kOhm
+350 kOhm
+35 MOhm
+270 kOhm ±5%
+170 kOhm ±5%
+170 kOhm ±5%
+100 kOhm ±5%
+1 kOhm ±5%
+1 kOhm ±10%
+270 kOhm ±5%
+170 kOhm ±5%
+100 kOhm ±5%
+100 Ohm ±5%
+1 kOhm ±5%
+270 kOhm ±5%
+170 kOhm ±5%
+100 kOhm ±5%
+1 kOhm ±5%
